@@ -14,11 +14,11 @@ Core Concepts: Functions, loops, dictionaries, file I/O
 Interface: Menu-driven CLI
 
 **How to run program**
-# Clone the repository
+Clone the repository
 git clone https://github.com/your-username/expense-tracker-cli.git  
 
-# Navigate to the project folder
+Navigate to the project folder
 cd expense-tracker-cli  
 
-# Run the program
+Run the program
 python expense_tracker.py  
