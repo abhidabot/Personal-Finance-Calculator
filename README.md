@@ -13,7 +13,8 @@ Language: Python
 Core Concepts: Functions, loops, dictionaries, file I/O
 Interface: Menu-driven CLI
 
-**How to run program**
+# **How to run program**
+
 Clone the repository
 git clone https://github.com/your-username/expense-tracker-cli.git  
 
